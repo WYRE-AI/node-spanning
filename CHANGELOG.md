@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/WYRE-AI/node-spanning/compare/v1.0.3...v1.0.4) (2026-08-25)
+
+
+### Bug Fixes
+
+* migrate to WYRE-AI org (npm scope, ghcr namespace, registry) ([#42](https://github.com/WYRE-AI/node-spanning/issues/42)) ([d522c24](https://github.com/WYRE-AI/node-spanning/commit/d522c24d1c1f5b1f38959b3b21221bacd88ca51c))
+
 ## [1.0.3](https://github.com/wyre-technology/node-spanning/compare/v1.0.2...v1.0.3) (2026-08-13)
 
 
