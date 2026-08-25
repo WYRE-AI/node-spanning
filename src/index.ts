@@ -1,5 +1,5 @@
 /**
- * @wyre-technology/node-spanning
+ * @wyre-ai/node-spanning
  *
  * Comprehensive, fully-typed Node.js/TypeScript client library for the
  * Spanning Cloud Backup REST API.

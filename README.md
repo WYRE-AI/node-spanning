@@ -1,4 +1,4 @@
-# @wyre-technology/node-spanning
+# @wyre-ai/node-spanning
 
 Comprehensive, fully-typed Node.js / TypeScript client library for the
 [Spanning Cloud Backup REST API](https://www.spanning.com/).
@@ -20,20 +20,20 @@ Comprehensive, fully-typed Node.js / TypeScript client library for the
 ## Install
 
 ```bash
-npm install @wyre-technology/node-spanning
+npm install @wyre-ai/node-spanning
 ```
 
-The package is published to GitHub Packages under the `@wyre-technology` scope.
+The package is published to GitHub Packages under the `@wyre-ai` scope.
 Add this to a project-local `.npmrc`:
 
 ```
-@wyre-technology:registry=https://npm.pkg.github.com
+@wyre-ai:registry=https://npm.pkg.github.com
 ```
 
 ## Quick start
 
 ```typescript
-import { SpanningClient } from '@wyre-technology/node-spanning';
+import { SpanningClient } from '@wyre-ai/node-spanning';
 
 const client = new SpanningClient({
   adminEmail: 'admin@example.com',
@@ -188,7 +188,7 @@ import {
   SpanningConflictError,
   SpanningRateLimitError,
   SpanningServerError,
-} from '@wyre-technology/node-spanning';
+} from '@wyre-ai/node-spanning';
 
 try {
   await client.users.get('user-123');
