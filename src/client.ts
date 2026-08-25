@@ -20,7 +20,7 @@ import { SalesforceResource } from './resources/salesforce.js';
  *
  * @example
  * ```typescript
- * import { SpanningClient } from '@wyre-technology/node-spanning';
+ * import { SpanningClient } from '@wyre-ai/node-spanning';
  *
  * const client = new SpanningClient({
  *   adminEmail: 'admin@example.com',

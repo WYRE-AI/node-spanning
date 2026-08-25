@@ -5,7 +5,7 @@ Thanks for your interest in contributing to `node-spanning`.
 ## Development setup
 
 ```bash
-git clone https://github.com/wyre-technology/node-spanning.git
+git clone https://github.com/WYRE-AI/node-spanning.git
 cd node-spanning
 npm install
 npm test
